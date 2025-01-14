@@ -1,0 +1,15 @@
+:root {
+  /* Estilos existentes */
+}
+
+/* Estilos existentes */
+
+.img-left {
+  float: left;
+  margin-right: 1em;
+}
+
+.img-small {
+  width: 150px;
+  height: auto;
+}
